@@ -6,14 +6,14 @@ The mask mandate data comes from [the CDC](https://data.cdc.gov/Policy-Surveilla
 
 The [date_range_for_collection.ipynb](./date_range_for_collection.ipynb) notebook uses Mecklenburg mask mandate periods to determine the date range for the permit data pull and different COVID stages.
 
-![viz1](./visualizations/change_points.jpeg)
+![viz](./visualizations/change_points.jpeg)
 
 The [exploring_and_cleaning_building_permit_data.ipynb](./exploring_and_cleaning_building_permit_data.ipynb) notebook filters out permits for nonresidential buildings, and determines the most accurate way calculating housing units approved for construction.
 
-![viz2](.visualizations/counts_permit_type.jpeg)
+![viz](./visualizations/counts_permit_type.jpeg)
 
 The [analysis.ipynb](./analysis.ipynb) notebook contains the visual and statistical analysis on the cleaned permit data to determine if COVID stages changed how the county approved residential building permits.
 
-![viz3](.visualizations/permits_issued.jpeg)
+![viz](./visualizations/permits_issued.jpeg)
 
 A full write-up of the steps and results of this project can be found in written_report.pdf.
