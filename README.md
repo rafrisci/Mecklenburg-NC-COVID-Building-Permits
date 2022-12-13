@@ -16,4 +16,4 @@ The [analysis.ipynb](./analysis.ipynb) notebook contains the visual and statisti
 
 ![viz](./visualizations/permits_issued.jpeg)
 
-A full write-up of the steps and results of this project can be found in written_report.pdf.
+A full write-up of the steps and results of this project can be found in [written_report.pdf](./written_report.pdf).
